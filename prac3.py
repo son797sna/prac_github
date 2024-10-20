@@ -1,0 +1,2 @@
+def prac():
+    return True
