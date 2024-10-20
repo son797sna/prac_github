@@ -4,3 +4,7 @@ def prac():
 
 def prac2():
     return True
+
+
+def prac3():
+    return True
